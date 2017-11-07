@@ -1,0 +1,49 @@
+body { font-family: "Hiragino Sans GB", "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif; }
+h1,h2,h3,h4,h5,h6{font-family: "Helvetica Neue", Helvetica, Arial, "Microsoft Yahei", sans-serif;}
+.featurette-sub-heading{ font-size: 24px;font-weight: normal; }
+/*@media screen and (min-width:768px)*/
+.jumbotron {
+    padding: 20px 0 5px 0;
+    margin-top: -20px;
+}
+
+.bs-docs-featurette .lead {
+    font-size: 18px;
+}
+.bs-docs-featurette h2{
+    font-size: 26px;
+}
+
+/*-- footer
+==================================================*/
+footer {margin-top: 0px;padding-top: 0px}
+footer .contact-footer {text-align: center;height: 60px;background: #FCFCFC;
+    color:#000000;}
+footer .footer-contact {float: left;margin: 10px 15px;}
+footer .contact-footer p { line-height: 60px;color: #000000;}
+footer .main-footer {background-color: #FAFAFA;color: #000000}
+footer .main-footer .contact-thirdparty {width: 200px;margin: 0 auto;padding: 30px 0 10px 0;}
+footer .main-footer .contact-thirdparty a {width: 60px;height: 60px;display: inline-block; }
+footer .main-footer .contact-header {width: 1000px;margin: 0 auto;color: #000000;list-style: none;padding-left: 0;}
+footer .main-footer .contact-header ul {list-style: none;padding-left: 0;}
+footer .main-footer .contact-header h3 { font-size: 16px;font-weight: normal;padding-bottom: 5px;}
+footer .main-footer .contact-header>li{float: left;width: 160px;}
+footer .main-footer .contact-header li {font-size: 13px;line-height: 1.9em;}
+footer .main-footer .contact-header a:hover { color: #447e9b;}
+footer .main-footer .contact-header .contact {width: 180px;}
+footer .main-footer .contact-header .keepIntouch {width: 160px;}
+footer .main-footer .contact-header .col-md-2 {padding-left: 0;padding-right: 0;}
+footer .main-footer .contact-header a.highlight {color: #000000;}
+footer .main-footer .copyright { text-align: center;margin-top: 25px; font-size: 14px;}
+footer .main-footer .copyright p {color: #000000;margin-bottom: 5px;}
+footer .main-footer .copyright a {color: #000000;}
+
+.bs-docs-featurette { border-bottom:1px; margin-bottom:10px;padding-top: 10px;padding-bottom: 20px}
+
+
+a:link { text-decoration: none}
+a:active { text-decoration:none}
+a:hover { text-decoration:none; color: red}
+a:visited { text-decoration: none}
+
+
